@@ -1,0 +1,3 @@
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/cmake-build-debug/CMakeFiles/2015b.dir

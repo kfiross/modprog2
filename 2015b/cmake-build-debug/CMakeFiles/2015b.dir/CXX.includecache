@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/main.cpp
+iostream
+-
+q3.h
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q3.h
+iostream
+-
+
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q2.cc
+q2.h
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q2.h
+iostream
+-
+
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q2.h
+
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q3.cc
+iostream
+-
+q3.h
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q3.h
+
+/home/kfirma/CLionProjects/modprog2_TESTS/2015b/q3.h
+
