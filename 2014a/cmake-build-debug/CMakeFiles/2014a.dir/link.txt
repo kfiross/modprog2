@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/2014a.dir/main.cpp.o CMakeFiles/2014a.dir/q1.cc.o CMakeFiles/2014a.dir/q3.cc.o  -o 2014a 
